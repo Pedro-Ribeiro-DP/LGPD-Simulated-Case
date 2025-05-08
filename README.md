@@ -1,7 +1,7 @@
 # 📂 CASO SIMULADO – CONSULTORIA PARA STARTUP DE TECNOLOGIA
 
 ## 🏢 Contexto:
-A startup SaúdeSmart (fictícia) desenvolveu um aplicativo que conecta pacientes a profissionais de saúde (médicos, nutricionistas e psicólogos) por meio de teleconsulta e agendamento. Os usuários inserem dados como:
+A startup SS S.A (fictícia) desenvolveu um aplicativo que conecta pacientes a profissionais de saúde (médicos, nutricionistas e psicólogos) por meio de teleconsulta e agendamento. Os usuários inserem dados como:
 
 Nome completo, CPF, e-mail, telefone, endereço
 
@@ -32,7 +32,7 @@ Você foi contratado(a) como consultor(a) jurídico(a) para realizar um diagnós
 
 # 📋 Diagnóstico LGPD – Caso Simulado: SaúdeSmart
 
-Este repositório simula uma consultoria jurídica de adequação à Lei Geral de Proteção de Dados (LGPD) para uma startup fictícia chamada **SaúdeSmart**, que atua na área de tecnologia e saúde.
+Este repositório simula uma consultoria jurídica de adequação à Lei Geral de Proteção de Dados (LGPD) para uma startup fictícia chamada **SS S.A**, que atua na área de tecnologia e saúde.
 
 ---
 

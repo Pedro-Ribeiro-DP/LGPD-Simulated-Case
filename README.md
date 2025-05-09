@@ -30,7 +30,7 @@ Você foi contratado(a) como consultor(a) jurídico(a) para realizar um diagnós
 
 
 
-# 📋 Diagnóstico LGPD – Caso Simulado: SaúdeSmart
+# 📋 Diagnóstico LGPD – Caso Simulado: SS S.A
 
 Este repositório simula uma consultoria jurídica de adequação à Lei Geral de Proteção de Dados (LGPD) para uma startup fictícia chamada **SS S.A**, que atua na área de tecnologia e saúde.
 
